@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://angular.io/">
-  <img height="32" src="https://www.iconspng.com/images/angular-logo.jpg" alt="Angular"/>
+  <img height="32" src="/" alt="Angular"/>
 </a>
 
 <a href="https://reactjs.org/">
@@ -41,6 +41,24 @@
 
 
 ----
+
+----
+
+## Coding Activity
+
+<br/>
+
+<p align="center">
+   <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpc060&layout=compact&theme=tokyonight"
+    />
+  <img   
+      align="center"
+      height="165" 
+       src="https://github-readme-stats.vercel.app/api?username=mpc060&show_icons=true&theme=tokyonight"
+    />
+</p>
 
 ----
 
