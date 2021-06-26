@@ -20,14 +20,6 @@
   <img height="32" src="https://cdn2.iconfinder.com/data/icons/programming-languages-8/64/207_programming-program-language-code-typescript-512.png" alt="TypeScript"/>
 </a>
 
-<a href="https://angular.io/">
-  <img height="32" src="/" alt="Angular"/>
-</a>
-
-<a href="https://reactjs.org/">
-  <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React"/>
-</a>
-
 <a href="https://nodejs.org/en/">
   <img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="Node"/>
 </a>
@@ -43,22 +35,3 @@
 ----
 
 ----
-
-## Coding Activity
-
-<br/>
-
-<p align="center">
-   <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpc060&layout=compact&theme=tokyonight"
-    />
-  <img   
-      align="center"
-      height="165" 
-       src="https://github-readme-stats.vercel.app/api?username=mpc060&show_icons=true&theme=tokyonight"
-    />
-</p>
-
-----
-
