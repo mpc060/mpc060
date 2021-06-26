@@ -10,7 +10,7 @@
 
 ----
 
-### Stacks :computer
+### Some Technologies used
 
 <a href="https://www.javascript.com/">
   <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
